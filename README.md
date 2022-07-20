@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Munashe Murimi
-- 👀 I’m interested in mobile, web & enterprise applications development
-- 🌱 I’m currently learning Oracle Certified Professional: Java SE 11 Developer
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Oracle Certified Professional: Java SE 17 Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me murimimunashe@gmail.com or +263776823925
 
